@@ -111,7 +111,7 @@ The documentation includes ROI examples for:
 ---
 
 ## 📖 License
-MIT License (add your preferred license if different).
+Human Systems Lab License (www.hslab.org)
 
 ---
 
