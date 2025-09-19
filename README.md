@@ -3,6 +3,8 @@
 The **Driver Activity and Mode Analyzer** is a Python-based tool that analyzes in-car driver videos to detect driver activities (e.g., talking on the phone, eating) and determine whether the vehicle is in **Automated** or **Manual** driving mode.  
 It uses **computer vision**, **YOLOv8**, **MediaPipe**, and a **PyQt5 GUI** for an easy-to-use experience.
 
+![The user interface and debugging window for visualization in DAMA](ui.png)
+
 ---
 
 ## ✨ Features
