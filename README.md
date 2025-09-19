@@ -51,14 +51,14 @@ It uses **computer vision**, **YOLOv8**, **MediaPipe**, and a **PyQt5 GUI** for 
 
 1. **Activate your environment**
    ```bash
-   cd C:\VideoPrx\venv\Scripts
+   cd C:\path to virtual env\Scripts
    activate.bat
    ```
 
 2. **Run the script**
    ```bash
-   cd C:\VideoPrx
-   python gg_optmz.py
+   cd C:\path to script
+   python dama3.py
    ```
 
 3. **GUI Controls**
